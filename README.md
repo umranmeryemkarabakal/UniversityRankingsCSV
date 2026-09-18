@@ -7,22 +7,22 @@
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
 </p>
 
-## 🇬🇧 Overview
+## Overview
 
 Data wrangling and visualisation practice on a university rankings dataset: cleaning and reshaping with pandas in one notebook, charts with Matplotlib and Seaborn in the other.
 
 **Quick start:** `jupyter notebook`
 
-## 🇹🇷 Proje hakkında
+## Proje hakkında
 
 Üniversite sıralamaları veri seti üzerinde veri düzenleme ve görselleştirme çalışması.
 
-## 📚 İçerik
+## İçerik
 
 - `01-data_wrangling_examples.ipynb`: eksik veri, tip dönüşümü, değer değiştirme, gruplama; temizlenmiş CSV üretir
 - `02-data_visualization_examples.ipynb`: Seaborn ile çubuk, kutu, sayım, çizgi, saçılım grafikleri ve ısı haritası
 
-## ⚙️ Kurulum ve çalıştırma
+## Kurulum ve çalıştırma
 
 ```bash
 python -m venv .venv
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 📁 Dosya yapısı
+## Dosya yapısı
 
 ```text
 UniversityRankingsCSV/
